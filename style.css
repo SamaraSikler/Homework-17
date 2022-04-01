@@ -1,0 +1,23 @@
+/* This is what you copied and pasted from Google Fonts: 
+font-family: 'Bebas Neue', cursive;
+font-family: 'Open Sans', sans-serif; */
+
+h1 {
+font-family: 'Bebas Neue';
+font-size: 72px;
+text-align: right;
+}
+h2 {
+  text-align: right;
+  font-weight: bold;
+  font-size: 34px;
+}
+
+body {
+    margin: 10%;
+    font-family: 'Playfair Display';
+}
+header {
+  text-align: center;
+
+}
